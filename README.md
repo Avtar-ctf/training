@@ -1,2 +1,2 @@
 # training
-mutah
+mutah universiry
